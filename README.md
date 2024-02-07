@@ -4,9 +4,9 @@ NOTE: YOU SHOULD NOT CHANGE THE TEST FILE `*.test.js`. IF YOU CHANGE IT, YOU WIL
 
 **TODO: EDIT THIS README and ADD YOUR NAME IN THE FOLLOWING FILE:**
 
-**First name:**
+**First name:** Meredith
 
-**Last name:**
+**Last name:** Gatlin
 
 Open the file `replace-string.js` and solve all of the `TODO`s specified in that file.
 
