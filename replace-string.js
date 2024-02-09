@@ -5,6 +5,8 @@ let myString = 'Hello World!!!';
 // of `myString`, the test should still pass.
 let newString = undefined;
 
+newString = myString.replace("myString", "newString");
+
 // DO NOT CHANGE ANYTHING BELOW THIS LINE.
 
 module.exports = {
