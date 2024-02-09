@@ -5,7 +5,7 @@ let myString = 'Hello World!!!';
 // of `myString`, the test should still pass.
 let newString = undefined;
 
-newString = myString.replace("myString", "newString");
+let newString = myString.replace("o", "0");
 
 // DO NOT CHANGE ANYTHING BELOW THIS LINE.
 
